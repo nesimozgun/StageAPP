@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerViewLooking4bands" type="id" />
+    <item name="profileImgofBand" type="id" />
+    <item name="nameofBand" type="id" />
+    <item name="locationofBand" type="id" />
+    <item name="genreofBand" type="id" />
+</resources>
